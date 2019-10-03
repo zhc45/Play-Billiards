@@ -1,0 +1,21 @@
+﻿  triangle.c
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(56): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(58): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(61): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(63): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(71): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(73): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(76): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(78): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(84): warning C4047: 'return': 'vec4 *' differs in levels of indirection from 'vec4 *[1]'
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(43): error C2075: 'vertices': array initialization requires a brace-enclosed initializer list
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(120): warning C4047: 'return': 'vec4 *' differs in levels of indirection from 'vec4 *[1]'
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(89): error C2075: 'colors': array initialization requires a brace-enclosed initializer list
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(153): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(153): warning C4024: 'generate_random_colors': different types for formal and actual parameter 1
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(155): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(155): warning C4024: 'generate_random_colors': different types for formal and actual parameter 1
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(163): warning C4034: sizeof returns 0
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(176): warning C4047: 'function': 'GLsizei' differs in levels of indirection from 'int *'
+c:\users\joanne chen\source\repos\testopenglproject\testopenglproject\triangle.c(176): warning C4024: 'glDrawArrays': different types for formal and actual parameter 3

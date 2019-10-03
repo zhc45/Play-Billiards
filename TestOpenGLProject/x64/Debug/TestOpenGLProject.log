@@ -1,0 +1,78 @@
+﻿  billiards.c
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(70): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(81): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(100): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(101): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(102): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(104): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(105): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(106): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(116): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(117): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(172): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(174): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(96): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(170): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(200): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(201): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(202): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(204): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(205): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(206): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(197): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(288): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(321): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(338): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(395): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(498): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(499): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(505): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(514): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(517): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(521): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(524): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(528): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(531): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(535): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(538): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(542): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(545): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(549): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(552): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(556): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(557): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(558): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(559): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(563): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(564): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(565): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(566): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(570): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(571): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(572): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(573): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(577): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(578): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(579): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(580): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(584): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(585): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(586): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(587): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(591): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(592): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(593): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(594): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(621): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(626): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(627): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(630): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(635): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(636): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(639): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(644): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(645): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(648): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(653): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joanne chen\desktop\proj3\proj3\testopenglproject\billiards.c(654): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+  TestOpenGLProject.vcxproj -> C:\Users\Joanne Chen\Desktop\proj3\proj3\x64\Debug\TestOpenGLProject.exe
